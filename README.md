@@ -10,3 +10,7 @@ I believe Honey to be malicious software, whose intent was to deceive marketing 
 2. Right-click the "Add to Firefox" button, and click "Copy Link."
 3. Use `curl` to download the `.xpi` from that URL.
 4. Unzip the newly created `.xpi` file.
+
+## Disclaimer
+
+I do not own, nor have I contributed to any of the source code, documentation, or images provided through this repository. All rights belong to PayPal Holdings, Inc. and this repository will be removed at their request, upon request.
